@@ -5,7 +5,7 @@ body {
 }
 
 h1 {
-  background-color:tomato;
+  background-color:pink;
   text-align: center;
   border-radius: 6px;
   margin: 5px;
@@ -15,6 +15,6 @@ p {
   margin:6px;
   font-family: Arial;
   font-size: 20px;
-  background-color:MediumSeaGreen;
+  background-color: Gray;
   border-radius: 6px;
 }
